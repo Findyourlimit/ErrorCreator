@@ -1,0 +1,2 @@
+# ErrorCreator
+simple error generator
